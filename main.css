@@ -8,10 +8,10 @@
     float: left;
 }
 .topnav {
-    padding: 5px;
+    padding: 25px;
     color: black;
     width: 50%;
-    float: right;
+    float: left;
 }
 .topnav a:hover {
     color: gray;
