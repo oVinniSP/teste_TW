@@ -9,6 +9,7 @@
 }
 
 .nav ul li {
+    margin-left: 5px;
     display: inline-block;
     float: left;
     list-style: none;
