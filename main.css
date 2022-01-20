@@ -10,6 +10,7 @@
 
 .nav ul li {
     margin-left: 5px;
+    text-align: center;
     display: inline-block;
     float: left;
     list-style: none;
