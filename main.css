@@ -5,7 +5,7 @@
 }
 
 .logo {
-    padding: 16px;
+    padding: 5px;
 }
 
 .nav ul li {
@@ -17,5 +17,5 @@
 
 .nav {
     width: 90%;
-    float: left;
+    float: right;
 }
