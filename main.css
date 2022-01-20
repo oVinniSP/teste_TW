@@ -5,5 +5,11 @@
 }
 
 .logo {
-    padding: 5px;
+    padding: 16px;
+}
+
+.nav ul li {
+    display: inline-block;
+    float: left;
+    list-style: none;
 }
