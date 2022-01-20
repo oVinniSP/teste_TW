@@ -5,11 +5,13 @@
 }
 .logo {
     padding: 5px;
+    float: left;
 }
 .topnav {
     padding: 5px;
     color: black;
-    width: 25%;
+    width: 50%;
+    float: right;
 }
 .topnav a:hover {
     color: gray;
