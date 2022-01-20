@@ -6,6 +6,8 @@
 
 .logo {
     padding: 5px;
+    width: 10%;
+    float: left;
 }
 
 }
@@ -14,7 +16,6 @@
     display: inline-block;
     float: left;
     list-style: none;
-    width: 10%,
 }
 
 .nav {
