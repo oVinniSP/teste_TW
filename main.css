@@ -18,10 +18,8 @@
     display: inline-block;
     float: left;
     list-style: none;
-    width: 10%,
 }
 
 .nav {
-    width: 90%;
-    float: right;
+    float: left;
 }
