@@ -9,6 +9,7 @@
 .topnav {
     padding: 5px;
     color: black;
+    width: 50%;
 }
 .topnav a:hover {
     color: gray;
